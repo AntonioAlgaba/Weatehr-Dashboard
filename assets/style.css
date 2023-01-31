@@ -1,0 +1,43 @@
+body{
+    width: 100%;
+    background-color: rgba(91, 91, 223, 0.73);
+}
+
+h2{
+    text-align: center;
+}
+.myCard{
+    
+    margin: 15px;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+.jumbotron{
+    width: 100%;
+}
+
+.btn{
+    margin: 10px;
+    background-color: rgb(27, 137, 206);
+    font-weight: bold;
+}
+
+.btnList{
+    margin: 5px;
+    background-color: rgba(170, 240, 240, 0.747);
+    font-weight: bold;
+}
+
+.hide{
+    display: none;
+}
+
+.icon{
+    height: 30px;
+    width: 30px;
+}
+
