@@ -1,4 +1,4 @@
-# Weatehr-Dashboard
+# Weather-Dashboard
 
 ## User Story
 AS A traveler
