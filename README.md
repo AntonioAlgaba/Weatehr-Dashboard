@@ -31,3 +31,14 @@ The acceptance critera are:
  ## Usage
  
  Application screenshot: 
+ ![screnshot1](images/screenshot1)
+ 
+ When you enter a city the app will be like:
+ ![screenshot2](images/screenshot2)
+ 
+ Deployed application link:
+ 
+ ## Credits
+ https://openweathermap.org/
+ 
+ 
