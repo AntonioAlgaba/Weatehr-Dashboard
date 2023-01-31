@@ -31,10 +31,10 @@ The acceptance critera are:
  ## Usage
  
  Application screenshot: 
- ![screnshot1](images/screenshot1)
+ ![screnshot1](images/screenshot1.jpg)
  
  When you enter a city the app will be like:
- ![screenshot2](images/screenshot2)
+ ![screenshot2](images/screenshot2.jpg)
  
  Deployed application link:
  
