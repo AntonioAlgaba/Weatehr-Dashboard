@@ -37,6 +37,7 @@ The acceptance critera are:
  ![screenshot2](images/screenshot2.jpg)
  
  Deployed application link:
+ https://antonioalgaba.github.io/Weather-Dashboard/
  
  ## Credits
  https://openweathermap.org/
